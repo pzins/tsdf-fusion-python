@@ -3,7 +3,7 @@ import shutil
 
 
 scannet_data = "/home/pierre/dev/scannet2/scans/scene0580_00/out/"
-out_folder = "/home/pierre/dev/tsdf-fusion-python/data"
+out_folder = "/home/pierre/dev/tsdf-fusion-python/data_scannet"
 nb_cameras = 4764
 
 
